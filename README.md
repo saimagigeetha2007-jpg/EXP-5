@@ -39,5 +39,9 @@ PRECAUTIONS:
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
 
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
-RESULT:
-The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
+RESULT:![IMG-20251006-WA0028](https://github.com/user-attachments/assets/5413b2e8-91bb-4d4a-b863-7e31c037a18f)
+
+The Characteristics ![IMG-20251006-WA0028](https://github.com/user-attachments/assets/3fba0c9a-3572-4efe-bec5-be27aac545b2)
+of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
+DONE BY:HEMANTH SAI .M
+REF NO:25007924
